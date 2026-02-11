@@ -17,7 +17,7 @@ L’objectif de ce projet est d’analyser les données d’activité issues de 
 
 ---
 
-##Données utilisées
+## Données utilisées
 
 Le jeu de données contient des informations journalières sur :
 
