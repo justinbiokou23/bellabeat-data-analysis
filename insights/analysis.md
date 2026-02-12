@@ -2,7 +2,7 @@
 
 ##  Évolution moyenne des pas
 
-![Évolution des pas](Dashboard/evolution_pas.png)
+![Évolution des pas](../Dashboard/evolution_pas.png)
 
 L’évolution moyenne du nombre de pas montre une activité relativement variable au cours du mois.
 
