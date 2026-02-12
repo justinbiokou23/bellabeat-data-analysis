@@ -21,6 +21,9 @@ Bellabeat pourrait identifier les jours de faible activité et proposer des rapp
 
 ##  Distribution du temps sédentaire
 
+![Distribution sédentarité](../Dashboard/distribution_sedentary.png)
+
+
 L’histogramme du temps sédentaire montre que la majorité des journées se situent entre 1 000 et 1 300 minutes sédentaires.
 
 Sachant qu’une journée compte 1 440 minutes, cela signifie que les utilisatrices passent entre 70 % et 90 % de leur temps en position inactive.
@@ -34,6 +37,8 @@ Le produit pourrait intégrer des alertes intelligentes pour réduire les pério
 ---
 
 ##  Relation entre les pas et les calories
+
+![Corrélation pas/calories](../Dashboard/correlation_pas_calories.png)
 
 Le nuage de points met en évidence une relation positive entre le nombre de pas et les calories brûlées.
 
@@ -51,6 +56,9 @@ Bellabeat pourrait valoriser non seulement le nombre de pas, mais également l�
 ---
 
 ## Pas moyens par utilisatrice
+
+![Pas par utilisatrice](../Dashboard/pas_par_utilisateur.png)
+
 
 L’analyse des pas moyens par utilisatrice révèle une forte disparité des comportements.
 
